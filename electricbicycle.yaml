@@ -1,0 +1,9 @@
+
+train: /yolov8/electricbicycle/images/train
+val: /yolov8/electricbicycle/images/val
+
+# number of classes
+nc: 1
+
+# class names
+names: ['electricbicycle']
